@@ -1,0 +1,78 @@
+/*layout 1*/
+
+
+.header, .hero, .body, .bar, .footer{
+	background-color: teal;
+	margin-bottom: 10px;
+}
+
+
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: red;
+	color: white;
+	font-size: 30px;
+
+}
+
+.lime{
+	background-color: lime;
+}
+
+.blue{
+	background-color: blue;
+}
+
+/*layout2*/
+
+.header1, .hero1, .body1, .bar1, .footer1{
+	background-color: pink;
+	margin-bottom: 10px;
+}
+
+.box1{
+	margin: 10px 0;
+	min-height: 70px;
+	background-color: orange;
+	color: blue;
+	font-size: 40px;
+
+}
+.red{
+	background-color: red;
+}
+
+.green{
+	background-color: green;
+}
+
+
+/*layout 3*/
+
+.header2, .hero2, .body2, .bar2, .footer2{
+	margin-bottom: 10px;
+	background-color: purple;
+}
+
+.box2{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: lime;
+	color: red;
+	font-size: 30px
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.black{
+	background-color: black
+}
+
+.box3{
+	width: 200px;
+	height: 200px;
+	background-color: lime;
+}
